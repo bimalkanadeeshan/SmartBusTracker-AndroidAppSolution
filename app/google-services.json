@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394861099366",
+    "firebase_url": "https://smartbustracker-257ae.firebaseio.com",
+    "project_id": "smartbustracker-257ae",
+    "storage_bucket": "smartbustracker-257ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394861099366:android:cba3f1129f3feb3f",
+        "android_client_info": {
+          "package_name": "com.example.bimalka.smartbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394861099366-k0716d0lp85b7lpuefte972r8m4kjdf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bimalka.smartbustracker",
+            "certificate_hash": "8e4cc858b4dc0a00340db425e22681856fc363a1"
+          }
+        },
+        {
+          "client_id": "394861099366-j7jqghpn1gov94hbh4on69m6hlbf7g96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfBvBBqevfbbT4N_KoxGI3oaP2cXx6sY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394861099366-j7jqghpn1gov94hbh4on69m6hlbf7g96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

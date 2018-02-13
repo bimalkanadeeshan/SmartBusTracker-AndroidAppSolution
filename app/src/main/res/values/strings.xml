@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Bus Tracker</string>
+    <string name="title_activity_single_map_detail_page">Map</string>
+    <string name="title_activity_common_map_detail_page">Map</string>
+    <string name="title_activity_single_map_detail_page1">Map</string>
+    <string name="title_activity_single_map_details_page2">Map</string>
+    <string name="title_activity_single_map_detail_page3">Map</string>
+    <string name="title_activity_single_map_detail_page4">Map</string>
+    <string name="title_activity_single_map_detail_page5">Map</string>
+    <string name="title_activity_single_map_detail_page6">Map</string>
+</resources>
